@@ -1,4 +1,4 @@
-# Fake Steam Key Generator
+# Steam Key Generator PHP script
 
 ## Use
 ```
